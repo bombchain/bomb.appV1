@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bomb.appV1/static/css/main.073c9b0a.css",
+    "main.js": "/bomb.appV1/static/js/main.1e214e6c.js",
+    "static/js/787.7f1a5df4.chunk.js": "/bomb.appV1/static/js/787.7f1a5df4.chunk.js",
+    "static/media/logo.svg": "/bomb.appV1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bomb.appV1/index.html",
+    "main.073c9b0a.css.map": "/bomb.appV1/static/css/main.073c9b0a.css.map",
+    "main.1e214e6c.js.map": "/bomb.appV1/static/js/main.1e214e6c.js.map",
+    "787.7f1a5df4.chunk.js.map": "/bomb.appV1/static/js/787.7f1a5df4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e214e6c.js"
+  ]
+}
