@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.peghub.bombapp",
+      "sha256_cert_fingerprints": [
+        "E6:B2:2D:21:2C:04:A4:52:C1:93:9C:06:11:DB:39:66:36:79:AA:A8:6F:5A:52:FB:75:4C:0D:44:10:9F:91:3E"
+      ]
+    }
+  }
+]
