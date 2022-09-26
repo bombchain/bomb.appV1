@@ -10,5 +10,17 @@
         "E6:B2:2D:21:2C:04:A4:52:C1:93:9C:06:11:DB:39:66:36:79:AA:A8:6F:5A:52:FB:75:4C:0D:44:10:9F:91:3E"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bombmoney.wallet",
+      "sha256_cert_fingerprints": [
+        "5C:BA:90:8E:E5:F7:F3:BD:25:84:88:A4:1D:69:8D:74:99:92:56:1D:27:F1:E5:13:D6:EC:F6:3A:73:EC:F9:C0"
+      ]
+    }
   }
 ]
